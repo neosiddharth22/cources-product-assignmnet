@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.products-heading{
+  font-family: 'Merienda One', cursive;
+
+}
+.products-name{
+  font-family: 'Abril Fatface', cursive;
+}
+
+#homie{
+  background-image:url("./wel2.jpg");
+  background-size: cover;
+  text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}

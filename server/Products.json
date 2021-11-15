@@ -1,0 +1,233 @@
+{
+  "products": [
+    {
+      "pid": 1,
+      "pname": "Bottle",
+      "price": 200,
+      "img": "./img/1.jpg"
+    },
+    {
+      "pid": 2,
+      "pname": "Bag",
+      "price": 1200,
+      "img": "./img/2.jpeg"
+    },
+    {
+      "pid": 3,
+      "pname": "Jacket",
+      "price": 3800,
+      "img": "./img/3.jpeg"
+    },
+    {
+      "pid": 4,
+      "pname": "Shoes",
+      "price": 4000,
+      "img": "./img/4.jpeg"
+    },
+    {
+      "pid": 5,
+      "pname": "Cap",
+      "price": 470,
+      "img": "./img/5.jpeg"
+    },
+    {
+      "pid": 6,
+      "pname": "Track pant",
+      "price": 940,
+      "img": "./img/6.jpeg"
+    },
+    {
+      "pid": 7,
+      "pname": "Half jacket",
+      "price": 4500,
+      "img": "./img/7.jpeg"
+    },
+    {
+      "pid": 8,
+      "pname": "Trekking bag",
+      "price": 1990,
+      "img": "./img/8.jpeg"
+    },
+    {
+      "pid": 9,
+      "pname": "Tshirt",
+      "price": 980,
+      "img": "./img/9.jpeg"
+    },
+    {
+      "pid": 10,
+      "pname": "Shorts",
+      "price": 1300,
+      "img": "./img/10.jpeg"
+    },
+    {
+      "pid": 11,
+      "pname": "Hand gloves",
+      "price": 1500,
+      "img": "./img/11.jpeg"
+    },
+    {
+      "pid": 12,
+      "pname": "Steel Bottle",
+      "price": 800,
+      "img": "./img/12.jpeg"
+    },
+    {
+      "pid": 13,
+      "pname": "Winter Jacket",
+      "price": 3600,
+      "img": "./img/13.jpeg"
+    },
+    {
+      "pid": 14,
+      "pname": "Food Box",
+      "price": 700,
+      "img": "./img/14.jpeg"
+    },
+    {
+      "pid": 15,
+      "pname": "Running shoes",
+      "price": 5600,
+      "img": "./img/15.jpeg"
+    },
+    {
+      "pid": 16,
+      "pname": "Helmet",
+      "price": 3600,
+      "img": "./img/16.jpeg"
+    }
+  ],
+  "courses": [
+    {
+      "cid": 1,
+      "name": "B.tech",
+      "duration": 4
+    },
+    {
+      "cid": 2,
+      "name": "M.tech",
+      "duration": 2
+    },
+    {
+      "cid": 3,
+      "name": "B.A",
+      "duration": 3
+    },
+    {
+      "cid": 4,
+      "name": "M.A",
+      "duration": 2
+    },
+    {
+      "cid": 5,
+      "name": "Bsc",
+      "duration": 3
+    },
+    {
+      "cid": 6,
+      "name": "Msc",
+      "duration": 2
+    },
+    {
+      "cid": 7,
+      "name": "BCA",
+      "duration": 3
+    },
+    {
+      "cid": 8,
+      "name": "MCA",
+      "duration": 2
+    },
+    {
+      "cid": 9,
+      "name": "MBA",
+      "duration": 2
+    }
+  ],
+  "enquiry": [
+    {
+      "course": "M.tech",
+      "name": "komal verma",
+      "email": "kkv@gmail.com",
+      "query": "komal query",
+      "id": 1
+    },
+    {
+      "course": "Msc",
+      "name": "komu v",
+      "email": "kkv@gmail.com",
+      "query": "komalbeftygshjv banms",
+      "id": 2
+    },
+    {
+      "course": "M.tech",
+      "name": "",
+      "email": "",
+      "query": "",
+      "id": 3
+    },
+    {
+      "course": "M.tech",
+      "name": "",
+      "email": "",
+      "query": "",
+      "id": 4
+    },
+    {
+      "course": "Msc",
+      "name": "",
+      "email": "",
+      "query": "",
+      "id": 5
+    },
+    {
+      "course": "M.tech",
+      "name": "komal",
+      "email": "kkv@gmail.com",
+      "query": "yuio yuio",
+      "id": 6
+    },
+    {
+      "course": "B.tech",
+      "name": "jack",
+      "email": "kkv@gmail.com",
+      "query": "io",
+      "id": 7
+    },
+    {
+      "course": "B.A",
+      "name": "rutu",
+      "email": "ru@gmail.com",
+      "query": "ru tu query",
+      "id": 8
+    },
+    {
+      "course": "M.A",
+      "name": "komal",
+      "email": "kkv@gmail.com",
+      "query": "jnhkml;,",
+      "id": 9
+    },
+    {
+      "course": "Bsc",
+      "name": "",
+      "email": "jk@gmail.com",
+      "query": "u90093",
+      "id": 10
+    },
+    {
+      "course": "Bsc",
+      "name": "jkn jn",
+      "email": "komalyu@gmail.com",
+      "query": "komal queryhu",
+      "id": 11
+    },
+    {
+      "course": "Msc",
+      "name": "wbb hhj",
+      "email": "sunita@gmail.com",
+      "query": "HOIKM WNS",
+      "id": 12
+    }
+  ]
+}
